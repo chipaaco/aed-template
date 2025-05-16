@@ -1,6 +1,10 @@
 esto es un primer borrador hecho con un modelo de IA, disculpen el cringe, cuando quede medianamente arreglado se quitará la advertencia
 
-# 📘 Guía de Soluciones 2025 - Algoritmos y Estructuras de Datos (AED)
+<p align="center">
+  <img src="assets/logo.png" alt="Logo del proyecto" width="150"/>
+</p>
+
+<h1 align="center">Soluciones AED – Guía de Trabajos Prácticos</h1>
 
 Este repositorio es una **plantilla no oficial** pensada para que cada estudiante pueda subir sus propias soluciones a los ejercicios de la **Guía de Trabajos Prácticos** de la materia *Algoritmos y Estructuras de Datos (AED)*.
 
