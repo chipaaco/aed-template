@@ -1,5 +1,6 @@
 <p align="center">
   <img src="assets/logo.png" alt="Logo del proyecto" width="150"/>
+  <!-- arbustinianocatar -->
 </p>
 
 <h1 align="center">Soluciones AED – Guía de Trabajos Prácticos</h1>
@@ -21,12 +22,7 @@ Este repositorio es una **plantilla no oficial** pensada para que cada estudiant
 
 ## 🔎 ¿Cómo ver soluciones de otros compañeros?
 
-Desde este mismo repositorio podés explorar las soluciones de otros estudiantes:
-
-1. Ir al [repositorio plantilla](https://github.com/chipaaco/aed-template) original.
-2. Entrá a la pestaña **Insights** (arriba del todo).
-3. Elegí la opción **Forks**.
-4. Ahí vas a ver los repositorios creados a partir de esta plantilla.
+Ir a [](https://github.com/chipaaco/aed-template).
 
 📸 **[Placeholder: imagen mostrando insights > forks]**
 
