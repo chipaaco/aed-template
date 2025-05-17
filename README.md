@@ -14,6 +14,11 @@ Año de cursado: 2069
 
 Este repositorio es una **plantilla no oficial** pensada para que cada estudiante pueda subir sus propias soluciones a los ejercicios de la [Guía de Trabajos Prácticos](https://aed-frre.github.io/) de la materia *Algoritmos y Estructuras de Datos (AED)*.
 
+* 📁 Tiene una estructura pre-armada con los ejercicios de la guía (2025).
+* 🫂 Cada fork (especie de copia) que hagas vos u otros estarán disponibles para que los compares fácilmente.
+* 🕦 Apuntes de alumnos de años anteriores son también bienvenidos.
+* 🍀 Ojalá esto tenga algo de tracción.
+
 <br/>
 
 ## 🔎 ¿Cómo ver soluciones de otros compañeros?
