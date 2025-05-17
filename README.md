@@ -25,9 +25,10 @@ Este repositorio es una **plantilla no oficial** pensada para que cada estudiant
 
 Desde este mismo repositorio podés explorar las soluciones de otros estudiantes:
 
-1. Entrá a la pestaña **Insights** (arriba del todo).
-2. Elegí la opción **Forks**.
-3. Ahí vas a ver los repositorios creados a partir de esta plantilla.
+1. Ir al [repositorio plantilla](https://github.com/chipaaco/aed-template) original.
+2. Entrá a la pestaña **Insights** (arriba del todo).
+3. Elegí la opción **Forks**.
+4. Ahí vas a ver los repositorios creados a partir de esta plantilla.
 
 📸 **[Placeholder: imagen mostrando insights > forks]**
 
@@ -44,9 +45,10 @@ Dentro de cada carpeta estarán los ejercicios numerados.
 
 Para subir tus soluciones personales, simplemente:
 
-1. Hacé clic en el botón verde arriba a la derecha que dice **"Use this template"**.
-2. Elegí un nombre para tu versión del repo, por ejemplo: `aed-mis-soluciones`.
-3. ¡Listo! Ahora podés editarlo directamente desde la web o desde tu editor local.
+1. Ir al [repositorio plantilla](https://github.com/chipaaco/aed-template) original.
+2. Hacé clic en el botón verde arriba a la derecha que dice **"Use this template"**.
+3. Elegí un nombre para tu versión del repo, por ejemplo: `aed-mis-soluciones`.
+4. ¡Listo! Ahora podés editarlo directamente desde la web o desde tu editor local.
 
 📸 **[Placeholder: imagen mostrando cómo usar el template]**
 
