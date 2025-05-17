@@ -12,7 +12,7 @@ Comisión: Z
 
 Este repositorio es una **plantilla no oficial** pensada para que cada estudiante pueda subir sus propias soluciones a los ejercicios de la [Guía de Trabajos Prácticos](https://aed-frre.github.io/) de la materia *Algoritmos y Estructuras de Datos (AED)*, cursado 2025.
 
----
+<br/>
 
 ## 🔎 ¿Cómo ver soluciones de otros compañeros?
 
@@ -24,14 +24,14 @@ Desde este mismo repositorio podés explorar las soluciones de otros estudiantes
 
 📸 **[Placeholder: imagen mostrando insights > forks]**
 
----
+<br/>
 
 ## 📁 Estructura de archivos
 
 Este repositorio está organizado (por defecto) en unidades y subtemas, según la guía de TPs.  
 Dentro de cada carpeta estarán los ejercicios numerados.
 
----
+<br/>
 
 ## 🚀 ¿Cómo crear tu propio repositorio?
 
@@ -43,7 +43,11 @@ Para subir tus soluciones personales, simplemente:
 
 📸 **[Placeholder: imagen mostrando cómo usar el template]**
 
----
+<br/>
+
+Si todavía no tenés mucha experiencia con git y github, te recomiendo los siguientes dos flujos de trabajo.
+
+<br/>
 
 ### ✍️ Editar desde GitHub Web
 
@@ -53,7 +57,7 @@ Para subir tus soluciones personales, simplemente:
 
 📸 **[Placeholder: imagen mostrando edición web]**
 
----
+<br/>
 
 ### 💻 Editar desde Visual Studio Code
 
@@ -63,21 +67,17 @@ Para subir tus soluciones personales, simplemente:
 
 📽️ **[Placeholder: video breve mostrando cómo editar desde VS Code]**
 
-Estas fueron algunas recomendaciones, git es muy versáti, podés usarlo de muchas otras formas.
-
----
+<br/>
 
 ## 💡 Origen de la idea
 
-Este repositorio nace como una **materialización de una idea compartida entre compañeros**: tener un lugar donde cada uno pudiera aportar sus soluciones a los ejercicios de la guía, de forma abierta y accesible.
+Este repositorio nace como una **materialización de una idea que tuvieron unos compañeros**: tener un lugar donde poder subir las soluciones a los ejercicios de la guía, de forma abierta y accesible.
 
 Después de pensar en distintas formas de organizarlo, consideré varias opciones:
 
-- 🔒 **Repositorio de un solo usuario**: podía generar conflictos por control, propiedad o falta de diversidad de soluciones.
-- 🏢 **Organización de GitHub**: más neutral, pero igual podía generar roces por la administración.
-- 🧪 **Branches por persona**: una buena idea técnica, pero tal vez poco accesible para quienes recién empiezan con Git.
+- **Repositorio de un solo usuario**: podía generar conflictos por control, propiedad o falta de diversidad de soluciones.
+- **Organización de GitHub**: más neutral, pero igual podía generar roces por la administración.
+- **Branches por persona**: una buena idea técnica, pero tal vez poco accesible para quienes recién empiezan con Git.
 
 Finalmente, opté por esta solución:  
-➡️ Un repositorio **plantilla** que cualquiera pueda **forkear** para tener su propia versión, subir sus ejercicios, y ser encontrado fácilmente desde este repo original.
-
-
+Un repositorio **plantilla** que cualquiera pueda **forkear** para tener su propia versión, subir sus ejercicios, y ser encontrado fácilmente desde este repo original.
