@@ -1,5 +1,3 @@
-esto es un primer borrador hecho con un modelo de IA, disculpen el cringe, cuando quede medianamente arreglado se quitará la advertencia
-
 <p align="center">
   <img src="assets/logo.png" alt="Logo del proyecto" width="150"/>
 </p>
@@ -80,7 +78,7 @@ Si todavía no tenés mucha experiencia con git y github, te recomiendo los sigu
 
 ## 💡 Origen de la idea
 
-Este repositorio nace como una **materialización de una idea que tuvieron unos compañeros**: tener un lugar donde poder subir las soluciones a los ejercicios de la guía, de forma abierta y accesible.
+Este repositorio nace como una de posibles **materializaciones de una idea que tuvieron unos compañeros** por parte mía [chipaaco](https://github.com/chipaaco): que entendí como, tener un lugar donde poder subir las soluciones a los ejercicios de la guía, de forma abierta y accesible.
 
 Después de pensar en distintas formas de organizarlo, consideré varias opciones:
 
@@ -88,5 +86,7 @@ Después de pensar en distintas formas de organizarlo, consideré varias opcione
 - **Organización de GitHub**: más neutral, pero igual podía generar roces por la administración.
 - **Branches por persona**: una buena idea técnica, pero tal vez poco accesible para quienes recién empiezan con Git.
 
-Finalmente, opté por esta solución:  
+<br/>
+
+Finalmente, ganó esta solución:  
 Un repositorio **plantilla** que cualquiera pueda **forkear** para tener su propia versión, subir sus ejercicios, y ser encontrado fácilmente desde este repo original.
