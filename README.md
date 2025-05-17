@@ -6,14 +6,11 @@ esto es un primer borrador hecho con un modelo de IA, disculpen el cringe, cuand
 
 <h1 align="center">Soluciones AED – Guía de Trabajos Prácticos</h1>
 
-Este repositorio es una **plantilla no oficial** pensada para que cada estudiante pueda subir sus propias soluciones a los ejercicios de la **Guía de Trabajos Prácticos** de la materia *Algoritmos y Estructuras de Datos (AED)*.
+Nombre: Juan Pérez
 
----
+Comisión: Z
 
-## 🔗 Guía de Trabajos Prácticos
-
-Podés acceder a la guía completa desde este enlace:  
-[📄 Ver guía de TPs (link a la guía oficial)](https://TU-LINK-AQUI.com)
+Este repositorio es una **plantilla no oficial** pensada para que cada estudiante pueda subir sus propias soluciones a los ejercicios de la [Guía de Trabajos Prácticos](https://aed-frre.github.io/) de la materia *Algoritmos y Estructuras de Datos (AED)*, cursado 2025.
 
 ---
 
@@ -22,7 +19,7 @@ Podés acceder a la guía completa desde este enlace:
 Para subir tus soluciones personales, simplemente:
 
 1. Hacé clic en el botón verde arriba a la derecha que dice **"Use this template"**.
-2. Elegí un nombre para tu versión del repo, por ejemplo: `aed-soluciones-nombre`.
+2. Elegí un nombre para tu versión del repo, por ejemplo: `aed-mis-soluciones`.
 3. ¡Listo! Ahora podés editarlo directamente desde la web o desde tu editor local.
 
 📸 **[Placeholder: imagen mostrando cómo usar el template]**
@@ -41,11 +38,13 @@ Para subir tus soluciones personales, simplemente:
 
 ### 💻 Editar desde Visual Studio Code
 
-1. Cloná tu repo fork con `git clone`.
+1. Cloná tu repo fork con `git clone <tu_usuario/aed-mis-soluciones>`.
 2. Abrilo en VS Code.
 3. Escribí tu código y hacé commits desde el panel de control de VS Code.
 
 📽️ **[Placeholder: video breve mostrando cómo editar desde VS Code]**
+
+Estas fueron algunas recomendaciones, git es muy versáti, podés usarlo de muchas otras formas.
 
 ---
 
