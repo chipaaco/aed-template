@@ -10,7 +10,9 @@ Nombre: Juan Pérez
 
 Comisión: Z
 
-Este repositorio es una **plantilla no oficial** pensada para que cada estudiante pueda subir sus propias soluciones a los ejercicios de la [Guía de Trabajos Prácticos](https://aed-frre.github.io/) de la materia *Algoritmos y Estructuras de Datos (AED)*, cursado 2025.
+Año de cursado: 2069
+
+Este repositorio es una **plantilla no oficial** pensada para que cada estudiante pueda subir sus propias soluciones a los ejercicios de la [Guía de Trabajos Prácticos](https://aed-frre.github.io/) de la materia *Algoritmos y Estructuras de Datos (AED)*.
 
 <br/>
 
