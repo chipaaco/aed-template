@@ -14,6 +14,25 @@ Este repositorio es una **plantilla no oficial** pensada para que cada estudiant
 
 ---
 
+## 🔎 ¿Cómo ver soluciones de otros compañeros?
+
+Desde este mismo repositorio podés explorar las soluciones de otros estudiantes:
+
+1. Entrá a la pestaña **Insights** (arriba del todo).
+2. Elegí la opción **Forks**.
+3. Ahí vas a ver los repositorios creados a partir de esta plantilla.
+
+📸 **[Placeholder: imagen mostrando insights > forks]**
+
+---
+
+## 📁 Estructura de archivos
+
+Este repositorio está organizado (por defecto) en unidades y subtemas, según la guía de TPs.  
+Dentro de cada carpeta estarán los ejercicios numerados.
+
+---
+
 ## 🚀 ¿Cómo crear tu propio repositorio?
 
 Para subir tus soluciones personales, simplemente:
@@ -45,25 +64,6 @@ Para subir tus soluciones personales, simplemente:
 📽️ **[Placeholder: video breve mostrando cómo editar desde VS Code]**
 
 Estas fueron algunas recomendaciones, git es muy versáti, podés usarlo de muchas otras formas.
-
----
-
-## 🔎 ¿Cómo ver soluciones de otros compañeros?
-
-Desde este mismo repositorio podés explorar las soluciones de otros estudiantes:
-
-1. Entrá a la pestaña **Insights** (arriba del todo).
-2. Elegí la opción **Forks**.
-3. Ahí vas a ver los repositorios creados a partir de esta plantilla.
-
-📸 **[Placeholder: imagen mostrando insights > forks]**
-
----
-
-## 📁 Estructura del repositorio (WIP)
-
-Este repositorio está organizado por unidades y subtemas, según la guía de TPs.  
-Dentro de cada carpeta estarán los ejercicios numerados.
 
 ---
 
